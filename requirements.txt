@@ -1,0 +1,13 @@
+
+### How to Run Your App
+
+1.  **Install Streamlit:**
+    Run this command in your terminal (make sure your `.venv` is active):
+    ```bash
+    pip install streamlit pdfplumber pandas openpyxl
+    ```
+
+2.  **Run the App:**
+    Navigate to the folder containing `app.py` and run:
+    ```bash
+    streamlit run app.py
